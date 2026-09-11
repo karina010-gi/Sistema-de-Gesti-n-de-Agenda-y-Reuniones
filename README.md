@@ -1,2 +1,2 @@
-# Sistema-de-Gesti-n-de-Agenda-y-Reuniones
+# Sistema de Gestion de Agenda y Reuniones
 Commits proyecto
